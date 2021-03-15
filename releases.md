@@ -1,9 +1,17 @@
 # Release Notes
 
+- [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
 
-## Stories 5.14
+## Stories 1.2
+### Mar 15, 2021
+- Added RTL support.
+- Update email templates.
+- Update theme.
+- Fix bug Serialization of 'GdImage' is not allowed.
+
+## Stories 1.1
 ### Mar 04, 2021
 - Add missing Language switcher and search box on mobile.
 - New option to add custom JS in Admin -> Appearance -> Custom JS.
