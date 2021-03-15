@@ -9,6 +9,7 @@
 - Added RTL support.
 - Update email templates.
 - Update theme.
+- Fix missing theme options.
 - Fix bug Serialization of 'GdImage' is not allowed.
 
 ## Stories 1.1
