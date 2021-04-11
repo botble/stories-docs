@@ -1,9 +1,21 @@
 # Release Notes
 
+- [Stories 1.3](#version_1_3)
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
 
+<a name="version_1_3"></a>
+## Stories 1.3
+### Apr 11, 2021
+- Improve UI & RTL style.
+- Add option to turn off automatic URL translation into Latin.
+- Add option to force URL & schema.
+- Improve email templates.
+- Fix bug Serialization of 'GdImage' is not allowed on PHP 8.
+- Refactor code & optimize performance.
+
+<a name="version_1_2"></a>
 ## Stories 1.2
 ### Mar 15, 2021
 - Added RTL support.
@@ -12,6 +24,7 @@
 - Fix missing theme options.
 - Fix bug Serialization of 'GdImage' is not allowed.
 
+<a name="version_1_1"></a>
 ## Stories 1.1
 ### Mar 04, 2021
 - Add missing Language switcher and search box on mobile.
