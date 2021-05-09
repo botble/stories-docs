@@ -1,9 +1,21 @@
 # Release Notes
 
+- [Stories 1.4](#version_1_4)
 - [Stories 1.3](#version_1_3)
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_4"></a>
+## Stories 1.4
+### May 10, 2021
+- Improve theme UI.
+- Fix change user's password.
+- Remove unused services in Google Client API services to reduce app size.
+- Fix color field.
+- Update theme options & handle errors when saving custom CSS.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_3"></a>
 ## Stories 1.3
