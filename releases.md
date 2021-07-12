@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.6](#version_1_6)
 - [Stories 1.5](#version_1_5)
 - [Stories 1.4](#version_1_4)
 - [Stories 1.3](#version_1_3)
@@ -7,9 +8,20 @@
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
 
+<a name="version_1_6"></a>
+## Stories 1.6
+### Jul 11, 2021
+- Add Wasabi cloud storage support.
+- Allow to config the default placeholder image.
+- Improve media, translations & backup.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
+- Fix some bugs on PHP 8.
+
 <a name="version_1_5"></a>
 ## Stories 1.5
-### June 13, 2021
+### Jun 13, 2021
 - Added RTL support for the admin panel.
 - Fix some errors on PHP 8.
 - Fix blog API.
