@@ -10,7 +10,7 @@
 
 <a name="version_1_6"></a>
 ## Stories 1.6
-### Jul 11, 2021
+### Jul 12, 2021
 - Add Wasabi cloud storage support.
 - Allow to config the default placeholder image.
 - Improve media, translations & backup.
