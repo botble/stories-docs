@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.7](#version_1_7)
 - [Stories 1.6](#version_1_6)
 - [Stories 1.5](#version_1_5)
 - [Stories 1.4](#version_1_4)
@@ -7,6 +8,14 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_7"></a>
+## Stories 1.7
+### Jul 27, 2021
+- Update CKEditor and TinyMCE to the latest version (version 5).
+- Update media: Add a button to download media files from URL.
+- Able to add multiple admin emails in Admin -> Settings -> General.
+- Big change on blog categories. Hierarchical tree structured category https://prnt.sc/1g4dr0n.
 
 <a name="version_1_6"></a>
 ## Stories 1.6
