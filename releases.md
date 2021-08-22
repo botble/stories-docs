@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.8](#version_1_8)
 - [Stories 1.7](#version_1_7)
 - [Stories 1.6](#version_1_6)
 - [Stories 1.5](#version_1_5)
@@ -8,6 +9,17 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_8"></a>
+## Stories 1.8
+### Aug 23, 2021
+- Fix Contact plugin with the new editor.
+- Improve shortcode. Make it easier to modify added shortcodes.
+- Improve editor & clean XSS.
+- Update theme UI.
+- Update to the latest Laravel version 8.55.0
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_7"></a>
 ## Stories 1.7
