@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.9](#version_1_9)
 - [Stories 1.8](#version_1_8)
 - [Stories 1.7](#version_1_7)
 - [Stories 1.6](#version_1_6)
@@ -9,6 +10,22 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_9"></a>
+## Stories 1.9
+### Sep 14, 2021
+- Fix theme migration & issue when activating plugin Language.
+- Fix admin email.
+- Fix cache issue in media.
+- Add option to hide newsletter in the header section.
+- Improve theme custom CSS/JS.
+- Improve plugin Blog & Newsletter.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_8"></a>
 ## Stories 1.8
