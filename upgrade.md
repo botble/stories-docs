@@ -1,5 +1,6 @@
 # Upgrade Guide
 
+- [Upgrading To 1.10](#upgrade-1.10)
 - [Upgrading To 1.9](#upgrade-1.9)
 - [Upgrading To 1.8](#upgrade-1.8)
 - [Upgrading To 1.7](#upgrade-1.7)
@@ -9,6 +10,26 @@
 - [Upgrading To 1.3](#upgrade-1.3)
 - [Upgrading To 1.2](#upgrade-1.2)
 - [Upgrading To 1.1](#upgrade-1.1)
+
+<a name="upgrade-1.10"></a>
+## Upgrade to 1.10
+
+>  {warning} This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
+
+- For developers:
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
+  - Update file `composer.json` and `composer.lock` from new source code.
+  - Delete folder `/vendor` then run `composer install` to upgrade vendor packages.
+  - Run `php artisan cms:publish:assets`.
+  - Run command `php artisan vendor:publish --tag=cms-lang --force` to update translations.
+  - Run `php artisan optimize:clear` to clear cache.
+
+- For non-developers:
+  - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
+  - Delete all files in `storage/framework/views` and `storage/framework/cache`.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
+
+>  {warning} We have upgraded to the Bootstrap 5, it may have cache issue in browser, try to hard reload pages (Ctrl + F5 on Windows or CMD + Shift + R on MacOS).
 
 <a name="upgrade-1.9"></a>
 ## Upgrade to 1.9

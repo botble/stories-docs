@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.10](#version_1_10)
 - [Stories 1.9](#version_1_9)
 - [Stories 1.8](#version_1_8)
 - [Stories 1.7](#version_1_7)
@@ -10,6 +11,20 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_10"></a>
+## Stories 1.10
+### Oct 14, 2021
+- Upgrade admin theme to Bootstrap 5.
+- Add system updater. 1-click update to the latest version.
+- Add BunnyCDN cloud storage.
+- Fix bug admin email, login backgrounds.
+- Update to the latest Laravel version 8.64.0
+- Improve RTL mode.
+- Improve UI & Editors.
+- Improve cookie consent (Added minimal style).
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_9"></a>
 ## Stories 1.9
