@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.11](#version_1_11)
 - [Stories 1.10](#version_1_10)
 - [Stories 1.9](#version_1_9)
 - [Stories 1.8](#version_1_8)
@@ -11,6 +12,23 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_11"></a>
+## Stories 1.11
+### Nov 18, 2021
+- Fix UI issue with select2 fields.
+- Fix Admin Bar settings.
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve multi-language.
+- Improve updater, using PclZip if Zip module is not enabled
+- Improve UI.
+- Improve slug package.
+- Improve shortcode.
+- Improve plugin Analytics, view analytics data by daterange.
+- Improve core & UI.
+- Improve RTL mode.
+- Update to the latest Laravel version 8.72.0.
+- Optimize queries performance.
 
 <a name="version_1_10"></a>
 ## Stories 1.10

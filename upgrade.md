@@ -1,5 +1,6 @@
 # Upgrade Guide
 
+- [Upgrading To 1.11](#upgrade-1.11)
 - [Upgrading To 1.10](#upgrade-1.10)
 - [Upgrading To 1.9](#upgrade-1.9)
 - [Upgrading To 1.8](#upgrade-1.8)
@@ -10,6 +11,16 @@
 - [Upgrading To 1.3](#upgrade-1.3)
 - [Upgrading To 1.2](#upgrade-1.2)
 - [Upgrading To 1.1](#upgrade-1.1)
+
+<a name="upgrade-1.11"></a>
+## Upgrade to 1.11
+
+- Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
+
+- Option 2 (Manual update):
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor`, `bootstrap`, `vendor`, `composer.json`, `composer.lock` and `public/index.php` from the latest version.
+  - Go to Admin -> Platform Administration -> Cache management then clear all caches.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
 
 <a name="upgrade-1.10"></a>
 ## Upgrade to 1.10
