@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.12](#version_1_12)
 - [Stories 1.11](#version_1_11)
 - [Stories 1.10](#version_1_10)
 - [Stories 1.9](#version_1_9)
@@ -12,6 +13,17 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_12"></a>
+## Stories 1.12
+### Dec 22, 2021
+- Fix saving meta box data.
+- Improve editor & media.
+- Improve multi-language.
+- Improve theme translations.
+- Improve RTL style.
+- Update AWS S3 settings: add AWS Endpoint.
+- Refactor code.
 
 <a name="version_1_11"></a>
 ## Stories 1.11
