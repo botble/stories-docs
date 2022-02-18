@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.13](#version_1_13)
 - [Stories 1.12](#version_1_12)
 - [Stories 1.11](#version_1_11)
 - [Stories 1.10](#version_1_10)
@@ -13,6 +14,21 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_13"></a>
+## Stories 1.13
+### Feb 18, 2022
+- Fix issue with Cloudflare SSL.
+- Fix tree category & social links.
+- Fix duplicate shortcode in CKEditor.
+- Fix saving SEO meta tags.
+- Improve license.
+- Improve permalink.
+- Improve dashboard widgets.
+- Improve core.
+- Prevent Method Not Allowed error when use ajax DELETE/PUT.
+- Add schema for post & page.
+- Update AWS S3 settings.
 
 <a name="version_1_12"></a>
 ## Stories 1.12
