@@ -23,7 +23,7 @@
   - Go to Admin -> Platform Administration -> Cache management then clear all caches.
   - Go to Admin -> Plugins: deactivate plugin `Ads`, `Blog`, `Gallery`, `Language`, `Language Advanced` then activate them again.
   - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
-  - 
+
 <a name="upgrade-1.12"></a>
 ## Upgrade to 1.12
 - Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
