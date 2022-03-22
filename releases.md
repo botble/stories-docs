@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Stories 1.14](#version_1_14)
 - [Stories 1.13](#version_1_13)
 - [Stories 1.12](#version_1_12)
 - [Stories 1.11](#version_1_11)
@@ -14,6 +15,16 @@
 - [Stories 1.2](#version_1_2)
 - [Stories 1.1](#version_1_1)
 - [Stories 1.0](#version_1_0)
+
+<a name="version_1_14"></a>
+## Stories 1.14
+### Mar 22, 2022
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_13"></a>
 ## Stories 1.13
