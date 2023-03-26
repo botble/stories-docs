@@ -8,7 +8,7 @@
 <a name="introduction"></a>
 ## Introduction
 
-Stories is a Creative Multilingual Blog script using Laravel 8.x. It's a product built on Botble CMS.
+Stories is a Creative Multilingual Blog script using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: `Feb 23, 2021`
 
