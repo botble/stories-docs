@@ -20,7 +20,6 @@ export default [
   {
     text: 'Usage',
     items: [
-      { text: 'Rename theme', link: '/stories/theme-rename' },
       { text: 'Custom CSS/JS', link: '/stories/usage-custom-css-js' },
       { text: 'Translation', link: '/stories/usage-translation' },
       { text: 'Multi-language', link: '/stories/usage-multi-language' },
@@ -31,4 +30,10 @@ export default [
       { text: 'Setup email', link: '/stories/usage-email' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/stories/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];
