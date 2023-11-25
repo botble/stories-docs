@@ -28,6 +28,7 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/stories/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/stories/usage-media-wasabi' },
       { text: 'Setup email', link: '/stories/usage-email' },
+      { text: 'Setup cronjob', link: '/stories/cronjob' },
     ],
   },
   {
