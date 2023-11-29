@@ -29,6 +29,7 @@ export default [
       { text: 'Media - Setup Wasabi', link: '/stories/usage-media-wasabi' },
       { text: 'Setup email', link: '/stories/usage-email' },
       { text: 'Setup cronjob', link: '/stories/cronjob' },
+      { text: 'Newsletter', link: '/stories/usage-newsletter' },
     ],
   },
   {
