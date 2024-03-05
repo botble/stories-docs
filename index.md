@@ -20,9 +20,9 @@ Homepage: [https://stories.botble.com](https://stories.botble.com)
 
 Admin Area: [https://stories.botble.com/admin](https://stories.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Botble Team
 
